@@ -1,0 +1,83 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+#Pycharm
+.idea/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+env/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+
+# virtual environment
+
+*.egg-info/
+.installed.cfg
+*.egg
+*.swp
+*.swn
+*.swk
+*.swm
+*.swl
+*.swo
+*.pyc
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+unittest_results.xml
+coverage.xml
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+
+# web front end
+web/bower_components/
+node_modules/
+
+# vim
+*.swp
+*.swo
+
+# cucumber reports
+
+# sqlite database
+*.db
+
+# patch
+*.patch
+patch/
+
+#mail
+*.eml
+.project
+.pydevproject
+.settings/org.eclipse.core.resources.prefs
+
+#log
+*.log.*
+
+# accommodation image
