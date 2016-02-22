@@ -32,7 +32,26 @@ var/
 *.swl
 *.swo
 *.pyc
-
+*.csv
+*.dat
+*.iml
+*.log
+*.out
+*.pid
+*.seed
+*.sublime-*
+*.swo
+*.swp
+*.tgz
+*.xml
+.DS_Store
+.idea
+.project
+.strong-pm
+coverage
+node_modules
+npm-debug.log
+client/vendor
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
