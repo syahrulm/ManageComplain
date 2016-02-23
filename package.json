@@ -1,7 +1,7 @@
 {
-  "name": "loopback-angular",
+  "name": "MyComplain",
   "version": "1.0.0",
-  "description": "loopback-angular",
+  "description": "My Complain",
   "main": "server/server.js",
   "scripts": {
     "pretest": "jshint .",
